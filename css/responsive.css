@@ -1,0 +1,202 @@
+@media screen and (max-width: 576px){
+    .line-imag1{
+        margin-top: 100px;
+    }
+    .suggestion{
+        padding: 7px;
+    }
+    .lorem-ipsum{
+        padding: 10px;
+    }
+    .menubar li{
+        margin-bottom: 18px;
+    }
+    
+}
+@media screen and (min-width: 576px) and (max-width: 991px){
+    .container {
+        max-width: 991px;
+    }
+}
+@media screen and (max-width: 767px) {
+     h2 {
+        font-size: 35px !important;
+    }
+    .mission10{
+        margin-top: 0;
+    }
+    .alison{
+        margin-top: 50px;
+    }
+    .autometic{
+        padding-top: 20px;
+    }
+    .dolor10 p{
+        margin-bottom: 20px;
+    }
+    .dolor10 h5{
+        margin-bottom: 5px;
+    }
+    .black{
+        padding-top: 0;
+    }
+    .line-imag01, .line-imag, .line-imag1{
+        margin-top: 20px;
+    }
+    .suggestion01{
+        width: auto;
+    }
+    .mission h4{
+        font-size: 18px;
+    }
+    .mission span{
+        font-size: 10px;
+    }
+    .mission span p{
+        font-size: 13px;
+    }
+    .margin155{
+        margin-bottom: 40px;
+        margin-top: 0px;
+    }
+    .big-size{
+        font-size: 35px !important;
+    }
+    h3{
+        font-size: 30px !important;
+    }
+    .profile{
+        margin-top: 30px;
+    }
+    .line-height, .line-imag::before, .line-imag1::before, .line-imag01::before{
+        display: none;
+    }
+    .heading button{
+        margin-top: 20px;
+    }
+    .b-text p{
+        min-height: 0;
+    }
+    .round-img img{
+        bottom: -17%;
+    }
+    .courtly-lee{
+        padding-right: 0;
+    }
+    .image-line{
+        bottom: 65%;
+        left: 3%;
+    }
+    .truck{
+        margin-top: 0;
+    }
+    .response{
+        margin-top: 60px;
+    }
+    .margin-bottom{
+        margin-bottom: 20px;
+    }
+}
+@media screen and (max-width:991px) {
+    .menu{
+        display: block;
+    }
+    .margin-left{
+        margin-left: 0;
+    }
+    .menu-item ul li{
+        text-align: left;
+        display: block;
+        margin-bottom: 15px;
+    }
+    .menu-item{
+        position: fixed;
+        top: 0;
+        right: 0;
+        width: 50%;
+        height: 100vh;
+        background: #fdfdfd;
+        transform: translateX(110%);
+        -webkit-transform: translateX(110%);
+        -moz-transform: translateX(110%);
+        -ms-transform: translateX(110%);
+        -o-transform: translateX(110%);
+        transition: all .5s;
+        -webkit-transition: all .5s;
+        -moz-transition: all .5s;
+        -ms-transition: all .5s;
+        -o-transition: all .5s;
+        display: block;
+        z-index: 999;
+        border-radius: 14px;
+        padding-top: 60px !important;
+        text-align: center;
+    }
+    .menu-overle {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100vh;
+        background-color: rgb(45 58 72 / 50%);
+        z-index: 100;
+        transition: all .5s;
+        -webkit-transition: all .5s;
+        -moz-transition: all .5s;
+        -ms-transition: all .5s;
+        -o-transition: all .5s;
+    }
+    .menu-overle.change {
+        display: block;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1199px) {
+    .b-text p{
+        min-height: 164px;
+    }
+    .others20{
+        max-width: 570px;
+    }
+   
+    .round-img img{
+        position: absolute;
+        bottom: -31%;
+        right: 0%;
+    }
+    .truck{
+        margin-top: -145px;
+    }
+    .line-imag::before, .line-imag1::before{
+        left: -28.5%;
+        top: 40%;
+    }
+    .line-imag01::before{
+        right: -28.8%;
+        top: 40%;   
+    }
+    
+
+}
+@media screen and   (max-width: 1199px){
+    .courtly-lee{
+        padding-left: 0;
+        padding-bottom: 100px;
+    }
+    .p-name, .icon{
+        margin-top: 20px;
+    }
+    .learn-more{
+        margin-top: 0px;
+    }
+
+}
+@media screen and (min-width: 1200px){
+    .container {
+        max-width: 1300px;
+    }
+    .others20{
+        max-width: 570px;
+    }    
+}
+
